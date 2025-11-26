@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Learning C#, JavaScript, HTML/CSS, and AI  <br>🛠️ Building small projects and growing my YouTube channel  <br>🤝 Open to mentorship and collaboration<br>
+💻 Learning C#, JavaScript, HTML/CSS, and AI  <br>🛠️ Building small projects and growing my YouTube channel  <br>🚀 Always learning, growing, and enjoying the process  <br>🤝 Open to mentorship and collaboration<br><br>
 
 
 ## 🌐 Socials:
